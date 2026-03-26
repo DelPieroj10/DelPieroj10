@@ -16,7 +16,7 @@ Hi Dudes, I'm Jean Piero Parra!
 
 I am a professional with a Higher Technician in Finance and Accounting. I have been studying psychology, marketing, and publicity since 2017; graphic design since 2020; and web development and English for the last 2 years (which I have been constantly improving). 
 <br>
-<div display="flex" text-aling="center" padding-left="40px" >
+<div style = "display: flex; text-align: center; padding-left: 40px;" >
 <img align="center" height="450rem"  alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlrYXB4ZnZtZDNtdmJqbDRpcWJremFzNHRiYWp2OHl2aWc2eXFsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xoicctrOv5aGw6mCZi/giphy.gif" />
 </div>
 <br>
