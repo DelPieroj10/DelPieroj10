@@ -51,7 +51,7 @@ I am expanding my knowledge in front-end development (especially REACT.JS). I lo
 # GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DelPiero10&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DelPiero10&show_icons=true&theme=tokyonight&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DelPiero10&layout=compact&theme=tokyonight"/>
 </p>
 
