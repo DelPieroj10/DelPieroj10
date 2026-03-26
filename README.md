@@ -22,7 +22,7 @@ My background includes Finance, Psychology, Graphic Design, and Customer Service
 
 I am currently seeking an opportunity as a Junior/Trainee Front-End Developer to continue growing and contributing to real-world projects. 
 <br>
-<div style = "display: grid; grid-template-columns: 1, 1fr; justify-content: center; padding-left: 40px;" >
+<div style = "display: flex; align: center; padding-left: 40px;" >
 <img align="center" height="450rem"  alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlrYXB4ZnZtZDNtdmJqbDRpcWJremFzNHRiYWp2OHl2aWc2eXFsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xoicctrOv5aGw6mCZi/giphy.gif" />
 </div>
 <br>
