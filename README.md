@@ -3,8 +3,9 @@ Hi, I'm Jean Piero Parra!
 	<a href="https://github.com/DelPiero10" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
+<br/>
+Front-End Developer | React.js 	
 </h1>
-<h3> Front-End Developer | React.js </h3>	
 <br/>
 <p align="center">
 	<a href="https://github.com/DelPiero10">
@@ -50,11 +51,19 @@ I am expanding my knowledge in front-end development (especially REACT.JS). I lo
 # GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DelPiero10&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DelPiero10&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DelPiero10&layout=compact&theme=tokyonight"/>
 </p>
 
 <br>
+
+# Contribution streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DelPiero10&theme=tokyonight"/>
+</p>
+
+<br/>
 
 ## Keep in touch with me 😊
 <a href="https://mail.google.com/pjeanpiero777@gmail.com">
