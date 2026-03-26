@@ -30,6 +30,7 @@ I am expanding my knowledge in front-end development (especially REACT.JS). I lo
 - 📚 I’m currently learning ...
   - React.js
   - Node.js
+  - TypeScript
     
 🚩 Interested in Web development
 - 🧐 Currently, I am open to a new job as a junior/trainee
