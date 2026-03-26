@@ -3,11 +3,11 @@ Hi, I'm Jean Piero Parra!
 	<a href="https://github.com/DelPiero10" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
-</h1>
 <br/>
 <h3 align="center">
 	Front-End Developer | React.js
 </h3>	
+</h1>
 
 <br/>
 <p align="center">
