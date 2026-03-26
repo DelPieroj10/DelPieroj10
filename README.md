@@ -1,20 +1,26 @@
 <h1 align="center">
-Hi Dudes, I'm Jean Piero Parra!
+Hi, I'm Jean Piero Parra!
 	<a href="https://github.com/DelPiero10" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
+<br/>
+Front-End Developer | React.js
 </h1>
 
 <br/>
 <p align="center">
 	<a href="https://github.com/DelPiero10">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Accountant;Web+Developer;Graphic+Designer;Anvanced+Excel%20|%20AI%20|%20Psychology%20Enthusiastic;Always%20learning%20new%20things&center=true&width=500&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer;React.js;JavaScript;HTML+|+CSS;UI+/+UX;Graphic+Designer;Always%20learning%20new%20things&center=true&width=500&height=45">
 	</a>
 </p>
 
 <hr>
 
-I am a professional with a Higher Technician in Finance and Accounting. I have been studying psychology, marketing, and publicity since 2017; graphic design since 2020; and web development and English for the last 2 years (which I have been constantly improving). 
+I am a Front-End Developer focused on React.js, with experience building responsive web applications, consuming APIs, implementing infinite scroll, testing with Vitest and Testing Library, and implementing component-based architecture.
+
+My background includes Finance, Psychology, Graphic Design, and Customer Service, which helps me build user-centered and visually appealing interfaces.
+
+I am currently seeking an opportunity as a Junior/Trainee Front-End Developer to continue growing and contributing to real-world projects. 
 <br>
 <div style = "display: grid; grid-template-columns: 1, 1fr; justify-content: center; padding-left: 40px;" >
 <img align="center" height="450rem"  alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlrYXB4ZnZtZDNtdmJqbDRpcWJremFzNHRiYWp2OHl2aWc2eXFsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xoicctrOv5aGw6mCZi/giphy.gif" />
@@ -42,6 +48,13 @@ I am expanding my knowledge in front-end development (especially REACT.JS). I lo
 <br>
 <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
 <br>
+
+# GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DelPiero10&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DelPiero10&layout=compact&theme=tokyonight"/>
+</p>
 
 <br>
 
