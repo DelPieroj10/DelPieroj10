@@ -52,8 +52,9 @@ I am expanding my knowledge in front-end development (especially REACT.JS). I lo
 # GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DelPieroj10&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DelPieroj10&layout=compact&theme=tokyonight"/>
+  <img height="150" width="150" src="https://github.com/DelPieroj10/DelPieroj10/blob/main/WEBP/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DelPieroj10&theme=tokyonight&hide_border=true"/>
+  <img height="150" width="150" src="https://github.com/DelPieroj10/DelPieroj10/blob/main/WEBP/right.webp">
 </p>
 
 <br>
@@ -61,7 +62,7 @@ I am expanding my knowledge in front-end development (especially REACT.JS). I lo
 # Contribution streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=DelPiero10&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com/?user=DelPieroj10&theme=tokyonight"/>
 </p>
 
 <br/>
