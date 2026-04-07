@@ -52,17 +52,7 @@ I am expanding my knowledge in front-end development (especially REACT.JS). I lo
 # GitHub Stats
 
 <p align="center">
-  <img height="150" width="150" src="https://github.com/DelPieroj10/DelPieroj10/blob/main/WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DelPieroj10&theme=tokyonight&hide_border=true"/>
-  <img height="150" width="150" src="https://github.com/DelPieroj10/DelPieroj10/blob/main/WEBP/right.webp">
-</p>
-
-<br>
-
-# Contribution streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=DelPieroj10&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DelPieroj10&theme=dark&hide_border=true"/>
 </p>
 
 <br/>
