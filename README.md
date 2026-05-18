@@ -27,8 +27,7 @@ I am currently seeking an opportunity as a Junior/Trainee Front-End Developer to
 <br>
 
 I am expanding my knowledge in front-end development (especially REACT.JS). I love learning and building something where I can apply my productivity, creativity, and customer service experience.
-- 📚 I’m currently learning ...
-  - React.js
+- 📚 I’m currently learning:
   - Node.js
   - TypeScript
     
